@@ -1,4 +1,25 @@
-## Hi there 👋
+
+[![Banner](https://pin.it/1jQXcsOBK)
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+| Hey there, I'm Adit | |
+|---|---|
+| **Full-Stack Developer & AI/DS Undergrad** (Class of 2026)<br><br>[**Full-Stack Developer & AI/DS Undergrad** (Class of 2026)
+
+I'm Aditi — I build things with my own touch. Frontend-wise, I bounce 
+between funky experimental UI and clean minimal design, just enjoying the 
+process rather than claiming to be great at it. Backend is where I'm most 
+comfortable: Node, Express, databases, real-time systems.
+
+Currently exploring electronics too, with the long-term goal of merging 
+hardware and software through AI. Still a newbie in this industry — 
+learning, iterating, and fixing myself as I go.
+
 
 <!--
 **aditi21109/aditi21109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
